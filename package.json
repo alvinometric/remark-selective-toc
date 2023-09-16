@@ -1,0 +1,22 @@
+{
+  "name": "remark-selective-toc",
+  "version": "0.1.0",
+  "description": "Remark Plugin to selectively add a table of contents ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvinometric/remark-selective-toc.git"
+  },
+  "keywords": [
+    "remark"
+  ],
+  "author": "Alvin Bryan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvinometric/remark-selective-toc/issues"
+  },
+  "homepage": "https://github.com/alvinometric/remark-selective-toc#readme"
+}
