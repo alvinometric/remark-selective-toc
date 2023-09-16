@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "Remark Plugin to selectively add a table of contents ",
   "main": "index.js",
+  "type": "module",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "test": "node test.js"
   },

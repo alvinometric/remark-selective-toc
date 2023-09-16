@@ -1,5 +1,12 @@
 # remark-selective-toc
 
+<!-- prettier-ignore-start -->
+[![Downloads](https://img.shields.io/npm/dm/remark-selective-toc.svg?style=flat-square)](https://www.npmjs.com/package/remark-selective-toc)
+[![Install size](https://packagephobia.com/badge?p=remark-selective-toc)](https://packagephobia.com/result?p=remark-selective-toc)
+[![version](https://img.shields.io/npm/v/remark-selective-toc.svg?style=flat-square)](https://www.npmjs.com/package/remark-selective-toc)
+[![MIT License](https://img.shields.io/npm/l/remark-selective-toc.svg?style=flat-square)](https://github.com/alvinometric/remark-selective-toc/blob/main/LICENSE)
+<!-- prettier-ignore-end -->
+
 A remark plugin to selectively add a table of contents and configure it for each markdown file. Ported and updated from [`gatsby-remark-table-of-contents`](https://github.com/signalwerk/gatsby-remark-table-of-contents).
 
 ````markdown
@@ -12,6 +19,9 @@ to: 2
 ````
 
 ## Installation
+
+This package is [ESM only](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c).
+In Node.js (version 16.0+, or 18.0+), install with [npm](https://npmjs.com):
 
 ```bash
 npm install remark-selective-toc
