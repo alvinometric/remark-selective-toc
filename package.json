@@ -18,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/alvinometric/remark-selective-toc/issues"
   },
-  "homepage": "https://github.com/alvinometric/remark-selective-toc#readme"
+  "homepage": "https://github.com/alvinometric/remark-selective-toc#readme",
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "mdast-util-toc": "^7.0.0",
+    "unist-util-filter": "^5.0.1",
+    "unist-util-modify-children": "^4.0.0"
+  },
+  "devDependencies": {
+    "remark": "^14.0.3"
+  }
 }
