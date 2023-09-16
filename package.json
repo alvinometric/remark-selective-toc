@@ -1,6 +1,6 @@
 {
   "name": "remark-selective-toc",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Remark Plugin to selectively add a table of contents ",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,7 @@
     "unist-util-modify-children": "^4.0.0"
   },
   "devDependencies": {
-    "remark": "^14.0.3"
+    "remark": "^14.0.3",
+    "to-vfile": "^8.0.0"
   }
 }
