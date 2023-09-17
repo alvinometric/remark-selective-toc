@@ -10,7 +10,10 @@
 A remark plugin to selectively add a table of contents and configure it for each markdown file. Ported and updated from [`gatsby-remark-table-of-contents`](https://github.com/signalwerk/gatsby-remark-table-of-contents).
 
 ````markdown
-# 👇 This code block gets replaced with a TOC of h2 headings only
+<!--
+👇 This code block gets replaced
+with a TOC of h2 headings only
+-->
 
 ```toc
 from: 1
