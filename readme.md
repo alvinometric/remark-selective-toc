@@ -98,7 +98,8 @@ Chooses between ordered and unordered list.
 
 ## Differences with `gatsby-remark-table-of-contents`
 
-`tight` is true by default.
+- `tight` is true by default
+- The Gatsby plugin uses `from-heading` and `to-heading` as options in the YAML block. This plugins accepts both these values as well as just `from` and `to`.
 
 ## Contributing
 
