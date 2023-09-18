@@ -15,9 +15,14 @@
     "url": "git+https://github.com/alvinometric/remark-selective-toc.git"
   },
   "keywords": [
-    "remark"
+    "markdown",
+    "plugin",
+    "remark",
+    "remark-plugin",
+    "toc",
+    "unified"
   ],
-  "author": "Alvin Bryan",
+  "author": "Alvin Bryan <hello@alvin.codes> (https://alvin.codes)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/alvinometric/remark-selective-toc/issues"
@@ -30,7 +35,7 @@
     "unist-util-modify-children": "^4.0.0"
   },
   "devDependencies": {
-    "remark": "^14.0.3",
+    "remark": "^15.0.1",
     "to-vfile": "^8.0.0"
   }
 }
