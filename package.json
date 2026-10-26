@@ -1,6 +1,6 @@
 {
   "name": "remark-selective-toc",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Remark Plugin to selectively add a table of contents ",
   "main": "index.js",
   "types": "index.d.ts",
